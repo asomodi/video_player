@@ -63,3 +63,5 @@ play.addEventListener('click', toggleVideoStatus);
 stop.addEventListener('click', stopVideo);
 
 progress.addEventListener('change', setVideoProgress);
+
+// https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs
